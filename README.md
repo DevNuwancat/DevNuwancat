@@ -1,5 +1,5 @@
-[I'm a developer from Sri Lanka 🇱🇰 building **[XearchAI](https://xearchai.com)** — an AI agentic job-seeking platform. Currently learning Python through Harvard's CS50 AI course.
+![XearchAI](https://i.imgur.com/9T9OlrB.png)
 
-Previously built websites for clients. Now focused on AI and agents.
+Building **[XearchAI](https://xearchai.com)** — an AI agent that finds and delivers the right jobs to you automatically.
 
-Check out what I'm working on at **[xearchai.com](https://xearchai.com)**.](https://i.imgur.com/9T9OlrB.png)
+Based in Colombo, Sri Lanka 🇱🇰
