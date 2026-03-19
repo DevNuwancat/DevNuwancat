@@ -4,7 +4,7 @@
 
 ## 🛠️ Open Source
 
-<img src="https://raw.githubusercontent.com/DevNuwancat/NuwanColors/main/logo.png" width="120" align="left"/>
+<img src="https://raw.githubusercontent.com/DevNuwancat/NuwanColors/main/logo.png" width="150" align="left"/>
 
 **[NuwanColors](https://github.com/DevNuwancat/NuwanColors)**
 
