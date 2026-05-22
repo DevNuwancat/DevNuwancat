@@ -2,9 +2,16 @@
 
  **[www.xearcai.com](https://xearchai.com)**
 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nuwancat)
 
-<a href='https://ko-fi.com/YOUR_KOFI_USERNAME' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+### ☕ Support My Work
+
+Sri Lankan dev who named himself after a cat 🐱  
+I build AI tools, open source stuff, and occasionally regret my life choices at 2am debugging.  
+Buy me a Ko-fi so I can keep going 😭☕
+
+<a href='https://ko-fi.com/nuwancat' target='_blank'>
+  <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+</a>
 
 ## 🛠️ Open Source
 
