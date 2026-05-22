@@ -5,7 +5,7 @@
 
 ### ☕ Support My Work
 
-Sri Lankan dev who named himself after a cat 🐱  
+A dev who named himself after a cat 🐱  
 I build AI tools, open source stuff, and occasionally regret my life choices at 2am debugging.  
 Buy me a Ko-fi so I can keep going 😭☕
 
