@@ -14,7 +14,7 @@ Buy a coffee = You're welcome!
 
 <img src="https://raw.githubusercontent.com/DevNuwancat/nuwancat-vue/main/thumbnail.png" width="150" align="left"/>
 
-**[nuwancat-vue](https://github.com/DevNuwancat/nuwancat-vue)**
+**[Nuwancat-Vue](https://github.com/DevNuwancat/nuwancat-vue)**
 
 Scaffold a Vue 3 + TypeScript + Tailwind CSS v4 + Vue Router project in one command.
 
