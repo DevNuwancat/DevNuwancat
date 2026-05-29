@@ -12,6 +12,16 @@ Buy a coffee = You're welcome!
 
 ## 🛠️ Open Source
 
+<img src="https://raw.githubusercontent.com/DevNuwancat/nuwancat-vue/main/thumbnail.png" width="150" align="left"/>
+
+**[nuwancat-vue](https://github.com/DevNuwancat/nuwancat-vue)**
+
+Scaffold a Vue 3 + TypeScript + Tailwind CSS v4 + Vue Router project in one command.
+
+`npx nuwancat-vue yout-project`
+
+<br clear="left"/>
+
 <img src="https://raw.githubusercontent.com/DevNuwancat/NuwanColors/main/logo.png" width="150" align="left"/>
 
 **[NuwanColors](https://github.com/DevNuwancat/NuwanColors)**
