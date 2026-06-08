@@ -12,6 +12,18 @@ Buy a coffee = You're welcome!
 
 ## 🛠️ Open Source
 
+<img src="https://i.imgur.com/prO2HGA.png" width="150" align="left"/>
+
+**[Claude Cap](https://github.com/DevNuwancat/ClaudeCap.git)**
+
+A free, open source macOS menu bar app that shows your Claude.ai usage in real time 
+
+`Download DMG` • [Releases](https://github.com/DevNuwancat/ClaudeCap/releases)
+
+<br clear="left"/>
+
+-----
+
 <img src="https://raw.githubusercontent.com/DevNuwancat/nuwancat-vue/main/thumbnail.png" width="150" align="left"/>
 
 **[Nuwancat-Vue](https://github.com/DevNuwancat/nuwancat-vue)**
@@ -21,6 +33,8 @@ Scaffold a Vue 3 + TypeScript + Tailwind CSS v4 + Vue Router project in one comm
 `npx nuwancat-vue yout-project`
 
 <br clear="left"/>
+
+-----
 
 <img src="https://raw.githubusercontent.com/DevNuwancat/NuwanColors/main/logo.png" width="150" align="left"/>
 
