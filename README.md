@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/XjoBRYi.jpeg" />
+<img src="blob:https://imgur.com/7ff46436-5be0-4bfb-a312-6f585b5ff771" />
 
 
 A dev who named himself after a cat 🐱  
