@@ -1,8 +1,7 @@
-<img src="blob:https://imgur.com/7ff46436-5be0-4bfb-a312-6f585b5ff771" />
+<img src="https://i.imgur.com/cgOxRvt.jpeg" />
 
 
-A dev who named himself after a cat 🐱  
-I build AI tools, open source stuff, and occasionally regret my life choices at 2am debugging.  
+Just a dumb guy with big ideas and an unreasonable belief that he can build them. 😂 
 
 Buy a coffee = You're welcome!
 
